@@ -1,0 +1,14 @@
+{
+  "name": "hi!music",
+  "version": "1.0.0",
+  "description": "app for searching and listening music",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "DAN",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
